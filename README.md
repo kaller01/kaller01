@@ -1,9 +1,13 @@
 # Hello there! 👾
 
-### - 😄 I'm Martin Kaller!
-### - 👨🏻‍🎓 I'm studying IT engineering at LiU
-### - 📷 I'm a landscape photographer
-### - 🛶 I enjoy kayaking!
+- 😄 I'm Martin Kaller!
+- 👨🏻‍🎓 I'm studying IT engineering at LiU
+- 📷 I'm a landscape photographer
+- 🛶 I enjoy kayaking!
+
+## Current projects 🔨
+- Restick
+- kallers.se
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaller01&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
