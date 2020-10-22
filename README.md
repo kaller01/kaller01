@@ -2,7 +2,7 @@
 
 #### - 👨‍💻 I'm Martin Kaller!
 #### - 👨🏻‍🎓 I'm studying IT engineering at LiU
-### - 📷 I like doing landscape photography
+- 📷 I like doing landscape photography
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaller01&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
