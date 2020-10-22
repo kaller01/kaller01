@@ -5,6 +5,7 @@
 
 -  I’m currently working on ...
 - 👨🏻‍🎓 I'm studying IT engineering at LiU
+- 📷 I like doing landscape photography
 
 <!--
 **kaller01/kaller01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
