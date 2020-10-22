@@ -1,6 +1,6 @@
 # Hello there! 👾
 
-### - 👨‍💻 I'm Martin Kaller!
+### - 😄 I'm Martin Kaller!
 ### - 👨🏻‍🎓 I'm studying IT engineering at LiU
 ### - 📷 I'm a landscape photographer
 ### - 🛶 I enjoy kayaking!
