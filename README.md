@@ -3,11 +3,11 @@
 - 😄 I'm Martin Kaller!
 - 👨🏻‍🎓 I'm studying IT engineering at LiU
 - 📷 I'm a landscape photographer
-- 🛶 I enjoy kayaking!
 
 ## Current projects 🔨
-- Restick
-- kallers.se
+- Making a simple multiplayer game in Rust and WASM, game server with node and socket.io! [play here](https://rustgame.kallers.se/)
+- [Photography website](https://photography.kallers.se/)
+- [Spaced repetition learning platform](https://restick2.kallers.se/account)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaller01&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
